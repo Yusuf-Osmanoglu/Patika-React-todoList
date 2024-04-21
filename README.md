@@ -13,7 +13,7 @@ Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuş
 2. Proje dizinine gidin:
 
     ```
-    cd Patika-React-FakeApi
+    cd Patika-React-todoList
     ```
 
 3. Gerekli bağımlılıkları yükleyin:
@@ -31,7 +31,6 @@ Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuş
 ## Kullanılan Teknolojiler
 
 - React
-- Fetch (fake API'ye istek yapmak için)
 - CSS (stil ve tasarım)
 
 ## Ekran Görüntüsü
@@ -57,7 +56,7 @@ This project was created to develop a web application using React. In the projec
 2. Navigate to the project directory:
 
     ```
-    cd Patika-React-FakeApi
+    cd Patika-React-todoList
     ```
 
 3. Install the dependencies:
@@ -75,7 +74,6 @@ This project was created to develop a web application using React. In the projec
 ## Technologies Used
 
 - React
-- Fetch (for making requests to the fake API)
 - CSS (for styling and design)
 
 ## Screenshot
